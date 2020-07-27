@@ -1,6 +1,7 @@
-# Todo App using React & Hooks (useReducer & ContextAPI)
+# Todo App using React & Hooks (useReducer & Context API)
 
 # Steps:
+
 ## 01) npm install or yarn
-## npm start or yarn start
+## 02) npm start or yarn start
 
